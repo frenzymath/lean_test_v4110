@@ -1,0 +1,7 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=././.lake/packages/batteries/.lake/build/lib:././.lake/packages/Qq/.lake/build/lib:././.lake/packages/aesop/.lake/build/lib:././.lake/packages/proofwidgets/.lake/build/lib:././.lake/packages/Cli/.lake/build/lib:././.lake/packages/importGraph/.lake/build/lib:././.lake/packages/mathlib/.lake/build/lib:././.lake/packages/REPL/.lake/build/lib:././.lake/build/lib LD_LIBRARY_PATH=/usr/local/cuda/compat/lib.real:/usr/local/lib/python3.10/dist-packages/torch/lib:/usr/local/lib/python3.10/dist-packages/torch_tensorrt/lib:/usr/local/cuda/compat/lib:/usr/local/nvidia/lib:/usr/local/nvidia/lib64 /root/.elan/toolchains/leanprover--lean4---v4.11.0/bin/lean -Dpp.unicode.fun=true ././././Leantest.lean -R ./././. -o ././.lake/build/lib/Leantest.olean -i ././.lake/build/lib/Leantest.ilean -c ././.lake/build/ir/Leantest.c --json",
+   "level": "trace"},
+  {"message": "././././Leantest.lean:9:6: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "323997684863227262"}
